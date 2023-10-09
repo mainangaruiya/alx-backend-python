@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-# countasync.py
-
+'''
+task 0 async
+'''
 import asyncio
 import random
 
